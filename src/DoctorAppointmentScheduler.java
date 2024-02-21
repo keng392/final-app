@@ -13,7 +13,7 @@ public class DoctorAppointmentScheduler {
             System.out.println("1. Schedule an appointment");
             System.out.println("2. View appointments");
             System.out.println("3. Exit");
-            System.out.print("Enter your choice: ");
+            System.out.print("Enter your choice");
             int choice = scanner.nextInt();
             scanner.nextLine();
 
